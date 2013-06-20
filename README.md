@@ -1,0 +1,1 @@
+usage: every <interval> <command>
