@@ -19,6 +19,7 @@ func main() {
 	interval, err := time.ParseDuration(os.Args[1])
 	if err != nil {
 		fmt.Println("error: invalid interval format")
+		return
 	}
 	command := os.Args[2]
 	arguments := []string{}
