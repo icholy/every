@@ -1,1 +1,2 @@
-usage: every <interval> <command>
+
+    usage: every <interval> <command>
